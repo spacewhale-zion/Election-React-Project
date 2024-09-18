@@ -1,0 +1,16 @@
+/* src/components/SloganSection.css */
+.slogan-section {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    animation: fadeIn 1s ease-in;
+}
+
+.slogan-section h2 {
+    font-size: 28px;
+    color: #FFD700;
+    font-weight: 700; /* Bold font weight */
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add a shadow for better visibility */
+}
